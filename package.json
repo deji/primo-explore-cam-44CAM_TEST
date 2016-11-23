@@ -1,0 +1,14 @@
+{
+  "name": "44CAM_TEST",
+  "version": "0.0.2",
+  "description": "",
+  "author": "",
+  "devDependencies": {
+    "primo-explore-cam-icon-my-account-links": "0.0.x",
+    "primo-explore-cam-location-items": "0.0.x",
+    "primo-explore-cam-my-lib-card-link": "0.0.x",
+    "primo-explore-cam-top-bar-browser-message": "0.0.x",
+    "primo-explore-cam-user-are-login-link": "0.0.x",
+    "primo-explore-cam-css": "0.0.x"
+  }
+}
