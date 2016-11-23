@@ -5,7 +5,7 @@
 ************************************************************************************************************************
 
 
-The Configuration package is compiled of the following folders:
+The Configuration package is composed of the following folders:
 
 1. img
    in this folder you can place your localized images for:
